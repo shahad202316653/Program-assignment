@@ -1,4 +1,3 @@
-# Program-assignment
 class Order:
     def __init__(self, orderID, deliveryAddress, recipientName, packageDetails, deliveryDate, status):
         # Constructor with required attributes
